@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Daniel de Jesús Galvis Zambrano
   tagline: Frontend Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: djgz2004@gmail.com
@@ -80,8 +80,10 @@ experiences:
       independiente como en equipo, asegurando siempre resultados de
       alta calidad.
 
-      - Desarrollo full stack basado en JavaScript y PHP, MVC
+      - Desarrollo Backend API RESTful PHP
+      - Desarrollo Frontend Web MVC JavaScript & Bootstrap
       - Base de Datos MySQL
+      - Microsoft Azure
       - Implementación de control de código fuente Git
 
 projects:
@@ -95,9 +97,9 @@ projects:
       link: "https://drive.google.com/file/d/1mzA-EXPe1aG-QgZfnief2o4YaQwjE94W/view?usp=sharing"
       tagline: "SENA, Agosto 2024"
 
-    - title: 
-      link: ""
-      tagline: ""
+    # - title: 
+    #   link: ""
+    #   tagline: ""
 
 #publications:
 #title: Publications
