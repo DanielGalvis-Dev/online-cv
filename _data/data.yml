@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Daniel de Jesús Galvis Zambrano
     tagline: Frontend Developer
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: perfilImage.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: djgz2004@gmail.com
@@ -65,12 +65,12 @@ education:
             Adquirí sólidas habilidades en programación y administración de bases
             de datos, empleando JavaScript, PHP y MySQL. Destaqué por mi
             proactividad en el aprendizaje.
-    - degree: 
-      university: 
-      time:      
-    - degree: 
-      university: 
-      time: 
+    # - degree: 
+    #   university: 
+    #   time:      
+    # - degree: 
+    #   university: 
+    #   time: 
 
 experiences:
     - role: Full Stack Developer
