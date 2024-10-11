@@ -3,164 +3,154 @@
 #
 
 sidebar:
-    position: left # position of the sidebar : left or right
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+  position: left # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Daniel de Jesús Galvis Zambrano
-    tagline: Frontend Developer
-    avatar: perfilImage.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Daniel de Jesús Galvis Zambrano
+  tagline: Frontend Developer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: djgz2004@gmail.com
-    phone: +57 3006188395
-    website: #do not add http://
-    linkedin: danielgalvis-dev
-    xing: #alandoe
-    github: DanielGalvis-Dev
-    telegram:  # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: #'@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    cv-title : Hoja de vida
-    pdf: #Url
-    experience-title: Experiencia
-    education-title: Estudios
-    language-title: Idiomas
-    languages:
-      - idiom: Español
-        level: Nativo
+  # Sidebar links
+  email: djgz2004@gmail.com
+  phone: +57 3006188395
+  website: #do not add http://
+  linkedin: danielgalvis-dev
+  xing: #alandoe
+  github: DanielGalvis-Dev
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: #'@webjeda'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  cv-title: Hoja de vida
+  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  experience-title: Experiencia
+  education-title: Estudios
+  language-title: Idiomas
+  languages:
+    - idiom: Español
+      level: Nativo
 
-      - idiom: Ingles
-        level: Basico
-    
-    interest-title: Hobbies
-    interests:
-      - item: Gimnasio
-        link:
+    - idiom: Ingles
+      level: Basico
 
-      - item: 
-        link:
+  interest-title: Hobbies
+  interests:
+    - item: Gimnasio
+      link:
 
-      - item:
-        link:
+    - item:
+      link:
+
+    - item:
+      link:
 
 career-profile:
-    title: Perfil Profesional
-    summary: |      
-        Tecnólogo en Desarrollo de Software con 6 meses de experiencia en 
-        desarrollo web y backend, entusiasta por aprender nuevas tecnologías. 
-        Con conocimientos en lenguajes como JavaScript, PHP y RESTful APIs, 
-        y manejo del framework Angular (v18). Experiencia en bases de datos MySQL.
+  title: Perfil Profesional
+  summary: |
+    Tecnólogo en Desarrollo de Software con 6 meses de experiencia en 
+    desarrollo web y backend, entusiasta por aprender nuevas tecnologías. 
+    Con conocimientos en lenguajes como JavaScript, PHP y RESTful APIs, 
+    y manejo del framework Angular (v18). Experiencia en bases de datos MySQL.
 
-education:    
-    - degree: Tecnologo en Análisis y Desarrollo de Sistemas de Información
-      university: Servicio Nacional de Aprendizaje (SENA)
-      time: 2022 - 2024
-      details: |
-            Adquirí sólidas habilidades en programación y administración de bases
-            de datos, empleando JavaScript, PHP y MySQL. Destaqué por mi
-            proactividad en el aprendizaje.
-    # - degree: 
-    #   university: 
-    #   time:      
-    # - degree: 
-    #   university: 
-    #   time: 
+education:
+  - degree: Tecnologo en Análisis y Desarrollo de Sistemas de Información
+    university: Servicio Nacional de Aprendizaje (SENA)
+    time: 2022 - 2024
+    details: |
+      Adquirí sólidas habilidades en programación y administración de bases
+      de datos, empleando JavaScript, PHP y MySQL. Destaqué por mi
+      proactividad en el aprendizaje.
 
 experiences:
-    - role: Full Stack Developer
-      time: Ago 2023 - Ene 2024
-      company: CENTRO NACIONAL COLOMBO ALEMAN
-      details: |
-        He demostrado habilidades sólidas en resolución de problemas a
-        través de la programación en JavaScript, PHP y MySQL,
-        destacándome por mi capacidad para aprender de manera
-        autónoma. He adquirido experiencia práctica en desarrollo web,
-        implementando proyectos exitosos con estas tecnologías. Además,
-        me destaco por mi habilidad para trabajar tanto de forma
-        independiente como en equipo, asegurando siempre resultados de
-        alta calidad.
+  - role: Full Stack Developer
+    time: 2023 - 2024
+    company: CENTRO NACIONAL COLOMBO ALEMAN
+    details: |
+      He demostrado habilidades sólidas en resolución de problemas a
+      través de la programación en JavaScript, PHP y MySQL,
+      destacándome por mi capacidad para aprender de manera
+      autónoma. He adquirido experiencia práctica en desarrollo web,
+      implementando proyectos exitosos con estas tecnologías. Además,
+      me destaco por mi habilidad para trabajar tanto de forma
+      independiente como en equipo, asegurando siempre resultados de
+      alta calidad.
 
-        - Desarrollo full stack basado en JavaScript y PHP, MVC
-        - Base de Datos MySQL
-        - Implementación de control de código fuente Git
-        
-          
+      - Desarrollo full stack basado en JavaScript y PHP, MVC
+      - Base de Datos MySQL
+      - Implementación de control de código fuente Git
+
 projects:
-    title: Cursos y Certificaciones
-    intro: #>
-      #You can list your side projects or open source libraries in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Tecnologo en Análisis y Desarrollo de Sistemas de Información
-        link: "https://drive.google.com/file/d/1mzA-EXPe1aG-QgZfnief2o4YaQwjE94W/view?usp=sharing"
-        tagline: "SENA, Agosto 2024"
+  title: Cursos y Certificaciones
+  intro:#>
+    #You can list your side projects or open source libraries in this
+    #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: Tecnologo en Análisis y Desarrollo de Sistemas de Información
+      link: "https://drive.google.com/file/d/1mzA-EXPe1aG-QgZfnief2o4YaQwjE94W/view?usp=sharing"
+      tagline: "SENA, Agosto 2024"
 
-      # - title: 
-      #   link: ""
-      #   tagline: "" #"A responsive website template designed to help startups promote, market and sell their products."
-
-
-     
+    - title: 
+      link: ""
+      tagline: ""
 
 #publications:
-    #title: Publications
-    #intro: |
-      #You can list your publications in this section. Lorem ipsum dolor sit
-      #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      #bibendum fringilla a eu lectus.
-    #papers:
-      #- title: The Art of Computer Programming
-        #link: "#"
-        #authors: Donald E. Knuth
-        #conference: Addison-Wesley, 1968
+#title: Publications
+#intro: |
+#You can list your publications in this section. Lorem ipsum dolor sit
+#amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#bibendum fringilla a eu lectus.
+#papers:
+#- title: The Art of Computer Programming
+#link: "#"
+#authors: Donald E. Knuth
+#conference: Addison-Wesley, 1968
 
-      #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-       #link: "#"
-       #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-       #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#link: "#"
+#authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      #- title: A syntax directed compiler for Algol 60
-        #link: "#"
-        #authors: Edgar T. Irons
-        #conference: "Comm. ACM 4 (1961), 51–55"
+#- title: A syntax directed compiler for Algol 60
+#link: "#"
+#authors: Edgar T. Irons
+#conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills #&amp; Proficiency
+  title: Skills #&amp; Proficiency
 
-    toolset:
-      - name: HTML & CSS
-        level: 
+  toolset:
+    - name: HTML & CSS
+      level: 
         
-      - name: JavaScript
-        level: 
+    - name: JavaScript
+      level: 
 
-      - name: Angular
-        level: 
+    - name: Angular
+      level: 
 
-      - name: Angular Material
-        level:
+    - name: Angular Material
+      level:
 
-      - name: Bootstrap
-        level:
+    - name: Bootstrap
+      level:
 
-      - name: Git
-        level:
-        
-      - name: Azure
-        level:
-        
-      - name: MySQL
-        level:
-        
-      - name: PHP
-        level:     
+    - name: Git
+      level:
+      
+    - name: Azure
+      level:
+      
+    - name: MySQL
+      level:
+      
+    - name: PHP
+      level:
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
