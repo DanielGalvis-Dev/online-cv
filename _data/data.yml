@@ -85,10 +85,10 @@ experiences:
             
 certifications:
       title: CERTIFICACIONES
-      intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      intro: #>
+      #You can list your side projects in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Tecnologo en Análisis y Desarrollo de Sistemas de Información
         link: "https://drive.google.com/file/d/1mzA-EXPe1aG-QgZfnief2o4YaQwjE94W/view?usp=sharing"
