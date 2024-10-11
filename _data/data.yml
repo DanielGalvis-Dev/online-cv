@@ -44,11 +44,11 @@ sidebar:
     - item: Gimnasio
       link:
 
-    - item:
-      link:
+    # - item:
+    #   link:
 
-    - item:
-      link:
+    # - item:
+    #   link:
 
 career-profile:
   title: Perfil Profesional
@@ -89,7 +89,7 @@ experiences:
 
 projects:
   title: Cursos y Certificaciones
-  intro: #>
+  intro:#>
     #You can list your side projects or open source libraries in this
     #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -98,7 +98,7 @@ projects:
       link: "https://drive.google.com/file/d/1mzA-EXPe1aG-QgZfnief2o4YaQwjE94W/view?usp=sharing"
       tagline: "SENA, Agosto 2024"
 
-    # - title: 
+    # - title:
     #   link: ""
     #   tagline: ""
 
@@ -129,15 +129,27 @@ skills:
 
   toolset:
     - name: HTML & CSS
-      level: 
-        
+      level:
+
     - name: JavaScript
-      level: 
+      level:
+
+    - name: TypeScript
+      level:
+
+    - name: NodeJS
+      level:
 
     - name: Angular
-      level: 
+      level:
 
     - name: Angular Material
+      level:
+
+    - name: MySQL
+      level:
+
+    - name: PHP
       level:
 
     - name: Bootstrap
@@ -145,14 +157,17 @@ skills:
 
     - name: Git
       level:
-      
+
+    - name: GitHub
+      level:
+
     - name: Azure
       level:
-      
-    - name: MySQL
+
+    - name: VisualStudio
       level:
-      
-    - name: PHP
+
+    - name: Figma
       level:
 
 footer: >
