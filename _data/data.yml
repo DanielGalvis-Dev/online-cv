@@ -3,22 +3,23 @@
 #
 
 sidebar:
+    position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Priscy Antonio Reales Mozo
-    tagline: .Net Developer
+    name: Daniel de Jesús Galvis Zambrano
+    tagline: Frontend Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: realespriscy@hotmail.com
-    phone: +57 300 377 8733
+    email: djgz2004@gmail.com
+    phone: +57 3006188395
     website: #do not add http://
-    linkedin: priscy-antonio-reales
+    linkedin: danielgalvis-dev
     xing: #alandoe
-    github: Preales
-    telegram: RealesPriscy # add your nickname without '@' sign
+    github: DanielGalvis-Dev
+    telegram:  # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: #'@webjeda'
@@ -26,7 +27,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     cv-title : Hoja de vida
-    pdf: https://1drv.ms/b/s!AmtlBDwF6PrJkwydxkuVkQ81PfAu?e=1U9SIP
+    pdf: #Url
     experience-title: Experiencia
     education-title: Estudios
     language-title: Idiomas
@@ -39,10 +40,10 @@ sidebar:
     
     interest-title: Hobbies
     interests:
-      - item: Voleibol
+      - item: Gimnasio
         link:
 
-      - item: Ciclismo
+      - item: 
         link:
 
       - item:
@@ -51,80 +52,44 @@ sidebar:
 career-profile:
     title: Perfil Profesional
     summary: |      
-        Ingeniero de software con amplia base de conocimientos en recopilación de requisitos y diseño de soluciones.
-        Profesional con más de 5 años de experiencia en sitios web y desarrollo backend.
-        Con conocimiento de lenguajes de programación como PHP, .Net, Xamarin Forms, Angular 11, RESTful API, Windows Forms, Reporting Services.
-        Base de datos: PostgreSQL, MySQL, SQL Server.
+        Tecnólogo en Desarrollo de Software con 6 meses de experiencia en 
+        desarrollo web y backend, entusiasta por aprender nuevas tecnologías. 
+        Con conocimientos en lenguajes como JavaScript, PHP y RESTful APIs, 
+        y manejo del framework Angular (v18). Experiencia en bases de datos MySQL.
 
 education:    
-    - degree: Ingeniero de Sistemas
-      university: Politécnico Costa Atlántica
-      time: 2017 - 2019      
-    - degree: Tnlgo Profesional en Gestión de Sistemas Informáticos
-      university: Instituto Tecnológico de Soledad Atlántico ITSA
-      time: 2015 - 2016      
-    - degree: Técn Profesional en Mantenimiento de Sistemas Informáticos
-      university: Instituto Tecnológico de Soledad Atlántico ITSA
-      time: 2012 - 2014
+    - degree: Tecnologo en Análisis y Desarrollo de Sistemas de Información
+      university: Servicio Nacional de Aprendizaje (SENA)
+      time: 2022 - 2024
+      details: |
+            Adquirí sólidas habilidades en programación y administración de bases
+            de datos, empleando JavaScript, PHP y MySQL. Destaqué por mi
+            proactividad en el aprendizaje.
+    - degree: 
+      university: 
+      time:      
+    - degree: 
+      university: 
+      time: 
 
 experiences:
-    - role: Ingeniero de Desarrollo Intermedio
-      time: Feb 22, 2021 - Actualidad
-      company: InterGrupo, Medellín - Colombia
+    - role: Full Stack Developer
+      time: Ago 2023 - Ene 2024
+      company: CENTRO NACIONAL COLOMBO ALEMAN
       details: |
-        - Trabajo bajo metodología Scrum
-        - Desarrollo Backend Api RESTful .Net Core
-        - Desarrollo Frontend Web Angular 11
-        - Diseño e implementación de base de datos SQL Server
-        - Azure Service Bus, Logic App, Key Vault
-        - Git Azure 
+        He demostrado habilidades sólidas en resolución de problemas a
+        través de la programación en JavaScript, PHP y MySQL,
+        destacándome por mi capacidad para aprender de manera
+        autónoma. He adquirido experiencia práctica en desarrollo web,
+        implementando proyectos exitosos con estas tecnologías. Además,
+        me destaco por mi habilidad para trabajar tanto de forma
+        independiente como en equipo, asegurando siempre resultados de
+        alta calidad.
+
+        - Desarrollo full stack basado en JavaScript y PHP, MVC
+        - Base de Datos MySQL
+        - Implementación de control de código fuente Git
         
-    - role: Ingeniero de Desarrollo
-      time: Sep 21, 2020 - Feb 18, 2021
-      company: SuperEfectivo, Barranquilla - Colombia
-      details: |        
-        - Desarrollo Web full stack basados en .NET, MVC
-        - Base de Datos SQL Server        
-        - Power BI
-        - Implementación de control de código fuente Git Azure
-          
-    - role: Ingeniero de Desarrollo
-      time: Ene 15, 2019 - Sep 18, 2020
-      company: MSS Corporations (Grupo EPK), Barranquilla - Colombia
-      details: |        
-        - Trabajo bajo metodología Scrum
-        - Desarrollo Backend Api RESTful .Net Core
-        - Desarrollo Frontend Web MVC asp.NET & Blazor
-        - Desarrollo Escritorio Windows Forms (ERP, POS)
-        - Desarrollo Móvil Xamarim Forms 
-        - Reporting Services
-        - Desarrollo de reportes SAP (ABAP)
-        - Base de Datos SQL Server 
-        - Git Azure
-          
-    - role: Ingeniero de Desarrollo
-      time: Sep 10, 2018 - Ene 10, 2019
-      company: GlobalSoft, Barranquilla - Colombia
-      details: |        
-        - Desarrollo Backend Api RESTful .Net
-        - Desarrollo Frontend PHP
-        - Git Azure
-          
-    - role: Líder de Desarrollo
-      time: Mar 05, 2017 - Jul 05, 2018
-      company: Papelería El CID, Barranquilla - Colombia
-      details: |        
-        - Levantamiento de requisito y requerimiento para desarrollo o modificación del ERP y POS
-        - Desarrollos bajo lenguaje PHP (ERP) y JAVA (POS)
-        - Administrar de base de datos (PostgreSql).
-        - Liderar, planificar, controlar y organizar las actividades del equipo de trabajo
-          
-    - role: Auxiliar de Sistemas
-      time: Oct 05, 2015 - Dic 16, 2016
-      company: Papelería El CID, Barranquilla - Colombia
-      details: |        
-        - Desarrollos bajo lenguaje PHP (ERP) y JAVA (POS)
-        - Base de datos (PostgreSql)
           
 projects:
     title: Cursos y Certificaciones
@@ -133,25 +98,14 @@ projects:
       #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Microservicios con ASP.NET Core, Docker y RabbitMQ
-        link: "https://udemy-certificate.s3.amazonaws.com/pdf/UC-9395df35-15e5-4010-baac-06f98f9b00e6.pdf"
-        tagline: "Udemy, Noviembre 2021"
+      - title: Tecnologo en Análisis y Desarrollo de Sistemas de Información
+        link: "https://drive.google.com/file/d/1mzA-EXPe1aG-QgZfnief2o4YaQwjE94W/view?usp=sharing"
+        tagline: "SENA, Agosto 2024"
 
-      - title: Microsoft AZ-900
-        link: "https://www.credly.com/badges/b4967734-23a0-48c7-be4b-7fd29b1e1495?source=linked_in_profile"
-        tagline: "Microsoft, Septiembre 2021" #"A responsive website template designed to help startups promote, market and sell their products."
+      # - title: 
+      #   link: ""
+      #   tagline: "" #"A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Scrum Foundations Professional Certificate (SFPC)
-        #link: "#"
-        tagline: "CertiProf, Junio 2020"
-
-      - title: SAP ABAP iniciación a la programación
-        link: "https://logaligroup.com/mod/simplecertificate/verify.php?code=5ed3121c-586c-4024-bf4f-3efd6c3dcfbb"
-        tagline: "Logali Group, Mayo 2020"
-
-      - title: SAP Conceptos e iniciación
-        link: "https://logaligroup.com/mod/simplecertificate/verify.php?code=880525f0-8e4a-11ea-baf4-0f9a7be5b34b"
-        tagline: "Logali Group, Mayo 2020"
 
      
 
@@ -181,38 +135,32 @@ skills:
     title: Skills #&amp; Proficiency
 
     toolset:
-      - name: SQL Server, PostgreSql & MySql 
-        level: 98%
-
-      - name: C# .Net, Windows Forms & Reporting Services
-        level: 80%
-       
-      - name: Xamarin Forms
-        level: 60%
+      - name: HTML & CSS
+        level: 
         
-      - name: Javascript & jQuery
-        level: 90%
+      - name: JavaScript
+        level: 
 
       - name: Angular
-        level: 60%
+        level: 
 
-      - name: HTML5 & CSS
-        level: 98%
+      - name: Angular Material
+        level:
 
+      - name: Bootstrap
+        level:
+
+      - name: Git
+        level:
+        
       - name: Azure
-        level: 40%
+        level:
+        
+      - name: MySQL
+        level:
         
       - name: PHP
-        level: 95%
-        
-      - name: Java, SAP ABAP
-        level: 40%
-      
-      - name: Bootstrap & Materialize
-        level: 80%
-        
-      - name: Git
-        level: 80%      
+        level:     
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
