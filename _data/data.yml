@@ -1,7 +1,6 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -17,9 +16,9 @@ sidebar:
     phone: +57 3006188395
     timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    website:  # Include the full website URL, including "http://" or "https://".
     linkedin: Daniel Galvis
-    xing: alandoe
+    xing: 
     github: DanielGalvis-Dev
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
