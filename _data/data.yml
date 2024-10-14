@@ -129,46 +129,46 @@ skills:
 
   toolset:
     - name: HTML & CSS
-      level:
+      level: 60%
 
     - name: JavaScript
-      level:
+      level: 50%
 
     - name: TypeScript
-      level:
+      level: 40%
 
     - name: NodeJS
-      level:
+      level: 20%
 
     - name: Angular
-      level:
+      level: 25%
 
     - name: Angular Material
-      level:
+      level: 20%
 
     - name: MySQL
-      level:
+      level: 40%
 
     - name: PHP
-      level:
+      level: 40%
 
     - name: Bootstrap
-      level:
+      level: 45%
 
     - name: Git
-      level:
+      level: 30%
 
     - name: GitHub
-      level:
+      level: 30%
 
     - name: Azure
-      level:
+      level: 40%
 
     - name: VisualStudio
-      level:
+      level: 70%
 
     - name: Figma
-      level:
+      level: 50%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
