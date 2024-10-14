@@ -1,4 +1,8 @@
 /* ======= Base ======= */
+:root {
+  --color-primary: #666;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   color: $text-color-secondary;
@@ -19,10 +23,10 @@ h6 {
 }
 
 a {
-  color: darken(#666, 15%);
+  color: darken(--color-primary, 15%);
   &:hover {
     text-decoration: underline;
-    color: darken(#666, 30%);
+    color: darken(--color-primary, 30%);
   }
   &:focus {
     text-decoration: none;
@@ -34,7 +38,7 @@ p {
 }
 
 .wrapper {
-  background: #666;
+  background: --color-primary;
   max-width: 1000px;
   margin: 0 auto;
   position: relative;
@@ -42,7 +46,7 @@ p {
 }
 
 .sidebar-wrapper {
-  background: #666;
+  background: --color-primary;
   position: absolute;
   left: 0;
   width: 280px;
@@ -54,7 +58,7 @@ p {
   }
   .profile-container {
     padding: 30px;
-    //background: darken(#666, 10%);
+    //background: darken(--color-primary, 10%);
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
     color: #fff;
@@ -168,21 +172,21 @@ p {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 500;
-    color: darken(#666, 15%);
+    color: darken(--color-primary, 15%);
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
+  }
 
-    ::after {
-      content: "";
-      width: calc(100% - 35px);
-      height: 2px;
-      background: #404040;
-      position: absolute;
-      bottom: 4px;
-      left: 35px;
-      border-radius: 50px;
-    }
+  .section-title::after {
+    content: "";
+    width: calc(100% - 35px);
+    height: 2px;
+    background: darken(--color-primary, 15%);
+    position: absolute;
+    bottom: 4px;
+    left: 35px;
+    border-radius: 50px;
   }
   .section {
     margin-bottom: 60px;
@@ -224,7 +228,7 @@ p {
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 5px;
-    color: darken(#666, 15%);
+    color: darken(--color-primary, 15%);
   }
   .projects-section {
     .intro {
@@ -272,7 +276,7 @@ p {
   }
   .level-bar-inner {
     height: 12px;
-    background: lighten(#666, 15%);
+    background: lighten(--color-primary, 15%);
   }
 }
 
