@@ -44,8 +44,8 @@ sidebar:
     - item: Gimnasio
       link:
 
-    # - item:
-    #   link:
+    - item: Música
+      link:
 
     # - item:
     #   link:
@@ -98,9 +98,9 @@ projects:
       link: "https://drive.google.com/file/d/1mzA-EXPe1aG-QgZfnief2o4YaQwjE94W/view?usp=sharing"
       tagline: "SENA, Agosto 2024"
 
-    # - title:
-    #   link: ""
-    #   tagline: ""
+    - title: Aplicación de la calidad del software en el proceso de desarrollo
+      link: "https://drive.google.com/file/d/1a-HR1x5vOP9cxRtabEA2MJkk8tbY3qA-/view?usp=sharing"
+      tagline: "SENA, Julio 2023"
 
 #publications:
 #title: Publications
@@ -129,46 +129,46 @@ skills:
 
   toolset:
     - name: HTML & CSS
-      level: 60%
+      level: Intermedio
 
     - name: JavaScript
-      level: 50%
+      level: Intermedio
 
     - name: TypeScript
-      level: 40%
+      level: Intermedio
 
     - name: NodeJS
-      level: 20%
+      level: Básico
 
     - name: Angular
-      level: 25%
+      level: Básico
 
     - name: Angular Material
-      level: 20%
+      level: Básico
 
     - name: MySQL
-      level: 40%
+      level: Básico
 
     - name: PHP
-      level: 40%
+      level: Básico
 
     - name: Bootstrap
-      level: 45%
+      level: Básico
 
     - name: Git
-      level: 30%
+      level: Básico
 
     - name: GitHub
-      level: 30%
+      level: Básico
 
     - name: Azure
-      level: 40%
+      level: Básico
 
     - name: VisualStudio
-      level: 70%
+      level: Intermedio
 
     - name: Figma
-      level: 50%
+      level: Intermedio
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
