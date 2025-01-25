@@ -94,7 +94,11 @@ projects:
     #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-    - title: Tecnologo en Análisis y Desarrollo de Sistemas de Información
+    - title: Azure - Create a REST API using NodeJS Serverless Functions
+      link: "https://drive.google.com/file/d/124soEHl8PxMY0X1zb_8uVuWgVn3RHpIa/view?usp=sharing"
+      tagline: "Coursera, Enero 2025"
+    
+      - title: Tecnologo en Análisis y Desarrollo de Sistemas de Información
       link: "https://drive.google.com/file/d/1mzA-EXPe1aG-QgZfnief2o4YaQwjE94W/view?usp=sharing"
       tagline: "SENA, Agosto 2024"
 
