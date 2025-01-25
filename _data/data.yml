@@ -63,9 +63,6 @@ education:
     university: Servicio Nacional de Aprendizaje (SENA)
     time: 2022 - 2024
     details: |
-      Adquirí sólidas habilidades en programación y administración de bases
-      de datos, empleando JavaScript, PHP y MySQL. Destaqué por mi
-      proactividad en el aprendizaje.
 
 experiences:
   - role: Full Stack Developer
@@ -82,7 +79,8 @@ experiences:
       alta calidad.
 
       - Desarrollo Backend API RESTful PHP
-      - Desarrollo Frontend Web MVC JavaScript & Bootstrap
+      - Desarrollo Frontend JavaScript & Bootstrap
+      - Patrón de diseño MVC
       - Base de Datos MySQL
       - Microsoft Azure
       - Implementación de control de código fuente Git
@@ -139,19 +137,16 @@ skills:
     - name: HTML & CSS
       level: Intermedio
 
-    - name: JavaScript
+    - name: JavaScript & TypeScript
       level: Intermedio
 
-    - name: TypeScript
-      level: Intermedio
+    - name: Git & GitHub
+      level: Básico
 
     - name: NodeJS
       level: Básico
 
     - name: Angular
-      level: Básico
-
-    - name: Angular Material
       level: Básico
 
     - name: MySQL
@@ -163,16 +158,10 @@ skills:
     - name: Bootstrap
       level: Básico
 
-    - name: Git
+    - name: Azure Data Studio
       level: Básico
 
-    - name: GitHub
-      level: Básico
-
-    - name: Azure
-      level: Básico
-
-    - name: VisualStudio
+    - name: Visual Studio Code
       level: Intermedio
 
     - name: Figma
