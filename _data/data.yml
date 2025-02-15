@@ -130,37 +130,37 @@ skills:
 
   toolset:
     - name: HTML & CSS
-      level: competente
+      level: 50%
 
     - name: JavaScript & TypeScript
-      level: competente
+      level: 50%
 
     - name: Git & GitHub
-      level: basico
+      level: 25%
 
     - name: Angular Framework
-      level: competente
+      level: 50%
 
     - name: MySQL
-      level: competente
+      level: 50%
 
     - name: C# & .NET
-      level: basico
+      level: 25%
 
     - name: PHP
-      level: basico
+      level: 25%
 
     - name: Bootstrap
-      level: basico
+      level: 25%
 
     - name: Tailwind
-      level: basico
+      level: 25%
 
     - name: Azure Data Studio
-      level: competente
+      level: 50%
 
     - name: Visual Studio Code
-      level: competente
+      level: 50%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
