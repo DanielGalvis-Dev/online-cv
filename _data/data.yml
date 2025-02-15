@@ -136,7 +136,7 @@ skills:
       level: competente
 
     - name: Git & GitHub
-      level: amateur
+      level: basico
 
     - name: Angular Framework
       level: competente
@@ -145,16 +145,16 @@ skills:
       level: competente
 
     - name: C# & .NET
-      level: amateur
+      level: basico
 
     - name: PHP
-      level: amateur
+      level: basico
 
     - name: Bootstrap
-      level: amateur
+      level: basico
 
     - name: Tailwind
-      level: amateur
+      level: basico
 
     - name: Azure Data Studio
       level: competente
