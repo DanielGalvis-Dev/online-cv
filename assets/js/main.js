@@ -1,21 +1,31 @@
-jQuery(document).ready(function($) {
+jQuery(document).ready(function ($) {
+  $(window).on("load", function () {
+    $(".level-bar-inner").each(function () {
+      var itemLevel = $(this).data("level");
+      var displayText;
 
-    $('.level-bar-inner').css('width', '0');
-    
-    $(window).on('load', function() {
+      // Cambiar el texto dependiendo del valor
+      switch (itemLevel) {
+        case "basico":
+          displayText = "Básico";
+          break;
+        case "amateur":
+          displayText = "Amateur";
+          break;
+        case "competente":
+          displayText = "Competente";
+          break;
+        case "profesional":
+          displayText = "Profesional";
+          break;
+        case "experto":
+          displayText = "Experto";
+          break;
+        default:
+          displayText = "Desconocido";
+      }
 
-        $('.level-bar-inner').each(function() {
-        
-            var itemWidth = $(this).data('level');
-            
-            $(this).animate({
-                width: itemWidth
-            }, 800);
-            
-        });
-
+      $(this).text(displayText);
     });
-   
-    
-
+  });
 });

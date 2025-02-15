@@ -65,24 +65,19 @@ education:
     details: |
 
 experiences:
-  - role: Full Stack Developer
+  - role: Analista Desarrollador de Software
     time: 2023 - 2024
     company: CENTRO NACIONAL COLOMBO ALEMAN
     details: |
       Demostré habilidades sólidas en resolución de problemas a
       través de la programación en JavaScript, PHP y MySQL,
       destacándome por mi capacidad para aprender de manera
-      autónoma. He adquirido experiencia práctica en desarrollo web,
-      implementando proyectos exitosos con estas tecnologías. Además,
-      me destaco por mi habilidad para trabajar tanto de forma
-      independiente como en equipo, asegurando siempre resultados de
-      alta calidad.
+      autónoma.
 
       - Desarrollo Backend API RESTful PHP
       - Desarrollo Frontend JavaScript & Bootstrap
       - Patrón de diseño MVC
       - Base de Datos MySQL
-      - Microsoft Azure
       - Implementación de control de código fuente Git
 
 projects:
@@ -135,37 +130,37 @@ skills:
 
   toolset:
     - name: HTML & CSS
-      level: Intermedio
+      level: competente
 
     - name: JavaScript & TypeScript
-      level: Intermedio
+      level: competente
 
     - name: Git & GitHub
-      level: Básico
+      level: amateur
 
-    - name: NodeJS
-      level: Básico
-
-    - name: Angular
-      level: Básico
+    - name: Angular Framework
+      level: competente
 
     - name: MySQL
-      level: Básico
+      level: competente
+
+    - name: C# & .NET
+      level: amateur
 
     - name: PHP
-      level: Básico
+      level: amateur
 
     - name: Bootstrap
-      level: Básico
+      level: amateur
+
+    - name: Tailwind
+      level: amateur
 
     - name: Azure Data Studio
-      level: Básico
+      level: competente
 
     - name: Visual Studio Code
-      level: Intermedio
-
-    - name: Figma
-      level: Intermedio
+      level: competente
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
