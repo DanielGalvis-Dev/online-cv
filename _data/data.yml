@@ -37,7 +37,7 @@ sidebar:
       level: Nativo
 
     - idiom: Ingles
-      level: Basico
+      level: B1
 
   interest-title: Hobbies
   interests:
@@ -56,6 +56,11 @@ career-profile:
     Desarrollador de Software con 6 meses de experiencia. Colabore en liderar el desarrollo FrontEnd y BackEnd en un proyecto de gestión y mantenimiento de motores eléctricos, logrando un 10% de mejora en el tiempo de entrega del proyecto, un 15% en rendimiento web y una plataforma unificada, además mejore un 30% la velocidad en las consultas de la base de datos.
 
 education:
+  - degree: Ingenieria de Sistemas
+    university: Politecnico Costa Atlántica
+    time: 2025 - Actualmente
+    details: |
+
   - degree: Tnlgo en Análisis y Desarrollo de Sistemas de Información
     university: Servicio Nacional de Aprendizaje (SENA)
     time: 2022 - 2024
@@ -67,7 +72,7 @@ experiences:
     company: CENTRO NACIONAL COLOMBO ALEMAN
     details: |
       Logros Clave:
-      
+
       Plataforma Unificada de Gestión de Motores:
 
       - Lideré el desarrollo FullStack (FrontEnd: HTML/CSS/JavaScript, BackEnd: PHP/MVC) de una plataforma para monitorear motores eléctricos, mejorando un 15% el rendimiento web y reduciendo un 10% el tiempo de entrega del proyecto.
