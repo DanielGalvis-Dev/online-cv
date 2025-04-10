@@ -66,17 +66,19 @@ experiences:
     time: 2023 - 2024
     company: CENTRO NACIONAL COLOMBO ALEMAN
     details: |
-      Demostré habilidades sólidas en resolución de problemas a
-      través de la programación en JavaScript, PHP y MySQL,
-      destacándome por mi capacidad para aprender de manera
-      autónoma.
+      Logros Clave:
+      Plataforma Unificada de Gestión de Motores:
 
       - Lideré el desarrollo FullStack (FrontEnd: HTML/CSS/JavaScript, BackEnd: PHP/MVC) de una plataforma para monitorear motores eléctricos, mejorando un 15% el rendimiento web y reduciendo un 10% el tiempo de entrega del proyecto.
       -	Optimicé consultas SQL (MySQL) incrementando la velocidad de respuesta en un 30% mediante índices y normalización.
 
+      Sistema de Monitoreo en Tiempo Real con IoT:
+
       - Implementé interfaces dinámicas (Bootstrap/jQuery) para visualizar datos de sensores (temperatura/voltaje), integrando APIs REST para comunicación con hardware.
       -	Diseñé un sistema de alertas (EmailJS + APIs de SMS) que redujo un 40% el tiempo de respuesta a fallos técnicos.
 
+      Estrategias de Eficiencia y Escalabilidad:
+      
       - Introduje Git/GitHub para control de versiones, reduciendo un 20% errores en producción.
       - Exploré soluciones en Microsoft Azure para escalabilidad futura, disminuyendo costos operativos.
 
