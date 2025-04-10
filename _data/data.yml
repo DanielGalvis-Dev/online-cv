@@ -53,10 +53,11 @@ sidebar:
 career-profile:
   title: Perfil Profesional
   summary: |
-    Tecnólogo en Desarrollo de Software con 6 meses de experiencia en 
-    desarrollo web y backend, entusiasta por aprender nuevas tecnologías. 
-    Con conocimientos en lenguajes como JavaScript, PHP y RESTful APIs, 
-    y manejo del framework Angular (v18). Experiencia en bases de datos MySQL.
+    Desarrollador de Software con 6 meses de experiencia. Colabore en liderar 
+    el desarrollo FrontEnd y BackEnd en un proyecto de gestión y mantenimiento 
+    de motores eléctricos, logrando un 10% de mejora en el tiempo de entrega 
+    del proyecto, un 15% en rendimiento web y una plataforma unificada, además 
+    mejore un 30% la velocidad en las consultas de la base de datos.
 
 education:
   - degree: Tnlgo en Análisis y Desarrollo de Sistemas de Información
@@ -69,20 +70,28 @@ experiences:
     time: 2023 - 2024
     company: CENTRO NACIONAL COLOMBO ALEMAN
     details: |
-      Demostré habilidades sólidas en resolución de problemas a
-      través de la programación en JavaScript, PHP y MySQL,
-      destacándome por mi capacidad para aprender de manera
-      autónoma.
+      Logros Clave:
+      ✔ Plataforma Unificada de Gestión de Motores
+        •	Lideré el desarrollo FullStack (FrontEnd: HTML/CSS/JavaScript, BackEnd: PHP/MVC) 
+          de una plataforma para monitorear motores eléctricos, mejorando un 15% el rendimiento 
+          web y reduciendo un 10% el tiempo de entrega del proyecto.
+        •	Optimicé consultas SQL (MySQL) incrementando la velocidad de respuesta en un 30% 
+          mediante índices y normalización.
+      ✔ Sistema de Monitoreo en Tiempo Real con IoT
+        •	Implementé interfaces dinámicas (Bootstrap/jQuery) para visualizar datos de sensores 
+          (temperatura/voltaje), integrando APIs REST para comunicación con hardware.
+        •	Diseñé un sistema de alertas (EmailJS + APIs de SMS) que redujo un 40% el tiempo de respuesta a fallos técnicos.
+      ✔ Estrategias de Eficiencia y Escalabilidad
+        •	Introduje Git/GitHub para control de versiones, reduciendo un 20% errores en producción.
+        •	Exploré soluciones en Microsoft Azure para escalabilidad futura, disminuyendo costos operativos.
+        Tecnologías Usadas:
+      HTML5 | CSS3 | JavaScript | PHP | MySQL | Bootstrap | jQuery | APIs REST | Git | IoT
 
-      - Desarrollo Backend API RESTful PHP
-      - Desarrollo Frontend JavaScript & Bootstrap
-      - Patrón de diseño MVC
-      - Base de Datos MySQL
-      - Implementación de control de código fuente Git
+      
 
 projects:
   title: Cursos y Certificaciones
-  intro: #>
+  intro:#>
     #You can list your side projects or open source libraries in this
     #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -90,15 +99,15 @@ projects:
     - title: Azure - Create a REST API using NodeJS Serverless Functions
       link: "https://drive.google.com/file/d/124soEHl8PxMY0X1zb_8uVuWgVn3RHpIa/view?usp=sharing"
       tagline: "Coursera, Enero 2025"
-    
+
     - title: Tecnologo en Análisis y Desarrollo de Sistemas de Información
       link: "https://drive.google.com/file/d/1mzA-EXPe1aG-QgZfnief2o4YaQwjE94W/view?usp=sharing"
       tagline: "SENA, Agosto 2024"
-    
-    - title: Certificado de practicas 
+
+    - title: Certificado de practicas
       link: "https://drive.google.com/file/d/1xdl-_P3rEL5vuNxbkBQwNFMyq66Da2tx/view?usp=sharing"
       tagline: "SENA, Julio 2024"
-    
+
     - title: Reconocimiento al desarrollo y la innovación en SENNOVA
       link: "https://drive.google.com/file/d/1IV2dSe81XHUf0wXCoENJOkQflBC1lww3/view?usp=sharing"
       tagline: "SENA, Enero 2024"
