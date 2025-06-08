@@ -53,7 +53,7 @@ sidebar:
 career-profile:
   title: Perfil Profesional
   summary: |
-    Desarrollador de Software con 6 meses de experiencia. Colabore en liderar el desarrollo FrontEnd y BackEnd en un proyecto de gestión y mantenimiento de motores eléctricos, logrando un 10% de mejora en el tiempo de entrega del proyecto, un 15% en rendimiento web y una plataforma unificada, además mejore un 30% la velocidad en las consultas de la base de datos.
+    Soy un Tecnólogo en Desarrollo de Software especializado en desarrollo web y backend, con dominio de tecnologías actuales como JavaScript, PHP, TypeScript y RESTful APIs, además de una amplia experiencia con el framework Angular (v18). Poseo una base sólida en gestión de bases de datos MySQL y una marcada orientación al detalle. Mi perfil se caracteriza por una destacada capacidad de autodesarrollo, excelente trabajo en equipo y una notable adaptabilidad, habilidades que me permiten ofrecer soluciones eficientes en entornos que requieren agilidad y constante evolución.
 
 education:
   - degree: Ingenieria de Sistemas
@@ -88,10 +88,9 @@ experiences:
       - Introduje Git/GitHub para control de versiones, reduciendo un 20% errores en producción.
       - Exploré soluciones en Microsoft Azure para escalabilidad futura, disminuyendo costos operativos.
 
-
 projects:
   title: Cursos y Certificaciones
-  intro: #>
+  intro:#>
     #You can list your side projects or open source libraries in this
     #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -99,15 +98,15 @@ projects:
     - title: Azure - Create a REST API using NodeJS Serverless Functions
       link: "https://drive.google.com/file/d/124soEHl8PxMY0X1zb_8uVuWgVn3RHpIa/view?usp=sharing"
       tagline: "Coursera, Enero 2025"
-    
+
     - title: Tecnologo en Análisis y Desarrollo de Sistemas de Información
       link: "https://drive.google.com/file/d/1mzA-EXPe1aG-QgZfnief2o4YaQwjE94W/view?usp=sharing"
       tagline: "SENA, Agosto 2024"
-    
-    - title: Certificado de practicas 
+
+    - title: Certificado de practicas
       link: "https://drive.google.com/file/d/1xdl-_P3rEL5vuNxbkBQwNFMyq66Da2tx/view?usp=sharing"
       tagline: "SENA, Julio 2024"
-    
+
     - title: Reconocimiento al desarrollo y la innovación en SENNOVA
       link: "https://drive.google.com/file/d/1IV2dSe81XHUf0wXCoENJOkQflBC1lww3/view?usp=sharing"
       tagline: "SENA, Enero 2024"
