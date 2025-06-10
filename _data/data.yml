@@ -53,7 +53,13 @@ sidebar:
 career-profile:
   title: Perfil Profesional
   summary: |
-    Soy un Tecnólogo en Desarrollo de Software especializado en desarrollo web y backend, con dominio de tecnologías actuales como JavaScript, PHP, TypeScript y RESTful APIs, además de una amplia experiencia con el framework Angular (v18). Poseo una base sólida en gestión de bases de datos MySQL y una marcada orientación al detalle. Mi perfil se caracteriza por una destacada capacidad de autodesarrollo, excelente trabajo en equipo y una notable adaptabilidad, habilidades que me permiten ofrecer soluciones eficientes en entornos que requieren agilidad y constante evolución.
+    Soy un Tecnólogo en Desarrollo de Software especializado en desarrollo web y backend, 
+    con dominio de tecnologías actuales como JavaScript, PHP, TypeScript y RESTful APIs, 
+    además de una amplia experiencia con el framework Angular (v18). Poseo una base sólida 
+    en gestión de bases de datos MySQL y una marcada orientación al detalle. Mi perfil se 
+    caracteriza por una destacada capacidad de autodesarrollo, excelente trabajo en equipo 
+    y una notable adaptabilidad, habilidades que me permiten ofrecer soluciones eficientes 
+    en entornos que requieren agilidad y constante evolución.
 
 education:
   - degree: Ingenieria de Sistemas
