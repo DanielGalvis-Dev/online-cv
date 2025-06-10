@@ -53,13 +53,7 @@ sidebar:
 career-profile:
   title: Perfil Profesional
   summary: |
-    Soy un Tecnólogo en Desarrollo de Software especializado en desarrollo web y backend, 
-    con dominio de tecnologías actuales como JavaScript, PHP, TypeScript y RESTful APIs, 
-    además de una amplia experiencia con el framework Angular (v18). Poseo una base sólida 
-    en gestión de bases de datos MySQL y una marcada orientación al detalle. Mi perfil se 
-    caracteriza por una destacada capacidad de autodesarrollo, excelente trabajo en equipo 
-    y una notable adaptabilidad, habilidades que me permiten ofrecer soluciones eficientes 
-    en entornos que requieren agilidad y constante evolución.
+    Soy un Tecnólogo en Desarrollo de Software especializado en desarrollo web y backend, con dominio de tecnologías actuales como JavaScript, PHP, TypeScript y RESTful APIs, además de una amplia experiencia con el framework Angular (v18). Poseo una base sólida en gestión de bases de datos MySQL y una marcada orientación al detalle. Mi perfil se caracteriza por una destacada capacidad de autodesarrollo, excelente trabajo en equipo y una notable adaptabilidad, habilidades que me permiten ofrecer soluciones eficientes en entornos que requieren agilidad y constante evolución.
 
 education:
   - degree: Ingenieria de Sistemas
@@ -94,9 +88,10 @@ experiences:
       - Introduje Git/GitHub para control de versiones, reduciendo un 20% errores en producción.
       - Exploré soluciones en Microsoft Azure para escalabilidad futura, disminuyendo costos operativos.
 
+
 projects:
   title: Cursos y Certificaciones
-  intro:#>
+  intro: #>
     #You can list your side projects or open source libraries in this
     #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -104,15 +99,15 @@ projects:
     - title: Azure - Create a REST API using NodeJS Serverless Functions
       link: "https://drive.google.com/file/d/124soEHl8PxMY0X1zb_8uVuWgVn3RHpIa/view?usp=sharing"
       tagline: "Coursera, Enero 2025"
-
+    
     - title: Tecnologo en Análisis y Desarrollo de Sistemas de Información
       link: "https://drive.google.com/file/d/1mzA-EXPe1aG-QgZfnief2o4YaQwjE94W/view?usp=sharing"
       tagline: "SENA, Agosto 2024"
-
-    - title: Certificado de practicas
+    
+    - title: Certificado de practicas 
       link: "https://drive.google.com/file/d/1xdl-_P3rEL5vuNxbkBQwNFMyq66Da2tx/view?usp=sharing"
       tagline: "SENA, Julio 2024"
-
+    
     - title: Reconocimiento al desarrollo y la innovación en SENNOVA
       link: "https://drive.google.com/file/d/1IV2dSe81XHUf0wXCoENJOkQflBC1lww3/view?usp=sharing"
       tagline: "SENA, Enero 2024"
@@ -159,23 +154,17 @@ skills:
     - name: Angular Framework
       level: 50%
 
+    - name: Node.js
+      level: 25%
+
     - name: MySQL
       level: 50%
-
-    - name: C# & .NET
-      level: 25%
 
     - name: PHP
       level: 25%
 
     - name: Bootstrap
       level: 25%
-
-    - name: Tailwind
-      level: 25%
-
-    - name: Azure Data Studio
-      level: 50%
 
     - name: Visual Studio Code
       level: 50%
