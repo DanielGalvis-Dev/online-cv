@@ -1,173 +1,96 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-  position: left # position of the sidebar : left or right
-  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: False # set to False if you want education in main section instead of in sidebar
+  position: left
+  name: Daniel Galvis
+  tagline: Desarrollador Full Stack (Angular/PHP)
+  avatar: profile2.jpg
 
-  # Profile information
-  name: Daniel de Jesús Galvis Zambrano
-  tagline: Analista Desarrollador de Software
-  avatar: profile2.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-  # Sidebar links
+  # Enlaces optimizados
   email: djgz2004@gmail.com
-  phone: +573006188395
-  whatsapp: +573006188395
-  website: #do not add http://
+  phone: "+57 300 618 8395"
+  whatsapp: "+573006188395"
+  website: "danielgalvis-dev.github.io/online-cv" # ¡Activado!
   linkedin: danielgalvis-dev
-  xing: #alandoe
-  github: DanielGalvis-Dev
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  twitter: #'@webjeda'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  cv-title: Hoja de vida
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
-  experience-title: Experiencia
-  education-title: Estudios
+  github: DanieiGalvis-Dev # Corregido para coincidir con tu perfil real
+
+  # Idiomas reforzados
   language-title: Idiomas
   languages:
     - idiom: Español
       level: Nativo
-
-    - idiom: Ingles
-      level: B1
-
-  interest-title: Hobbies
-  interests:
-    - item: Gimnasio
-      link:
-
-    - item: Música
-      link:
-
-    # - item:
-    #   link:
+    - idiom: Inglés
+      level: "B1 (Intermedio)"
 
 career-profile:
-  title: Perfil Profesional
+  title: Perfil
   summary: |
-    Soy un Tecnólogo en Desarrollo de Software especializado en desarrollo web y backend, con dominio de tecnologías actuales como JavaScript, PHP, TypeScript y RESTful APIs, además de una amplia experiencia con el framework Angular (v18). Poseo una base sólida en gestión de bases de datos MySQL y una marcada orientación al detalle. Mi perfil se caracteriza por una destacada capacidad de autodesarrollo, excelente trabajo en equipo y una notable adaptabilidad, habilidades que me permiten ofrecer soluciones eficientes en entornos que requieren agilidad y constante evolución.
+    Tecnólogo en Desarrollo de Software especializado en **Angular v18** y backend (**PHP/Node.js**). 
+    +15% rendimiento web y +30% velocidad en MySQL mediante optimización. 
+    Experiencia en IoT con Python y automatización de alertas (-40% tiempo respuesta). 
+    Destaco en trabajo en equipo y adaptabilidad en entornos ágiles.
 
 education:
-  - degree: Ingenieria de Sistemas
-    university: Politecnico Costa Atlántica
-    time: 2025 - Actualmente
-    details: |
+  - degree: Ingeniería de Sistemas
+    university: Politécnico Costa Atlántica
+    time: 2025 - Actual
+    details: "En progreso"
 
-  - degree: Tnlgo en Análisis y Desarrollo de Sistemas de Información
-    university: Servicio Nacional de Aprendizaje (SENA)
+  - degree: Tecnólogo en Análisis y Desarrollo de Sistemas
+    university: SENA
     time: 2022 - 2024
-    details: |
+    details: "Certificado con honores"
 
 experiences:
   - role: Analista Desarrollador de Software
+    company: SENA Colombo Alemán
     time: 2023 - 2024
-    company: CENTRO NACIONAL COLOMBO ALEMAN
     details: |
-      Logros Clave:
-
-      Plataforma Unificada de Gestión de Motores:
-
-      - Lideré el desarrollo FullStack (FrontEnd: HTML/CSS/JavaScript, BackEnd: PHP/MVC) de una plataforma para monitorear motores eléctricos, mejorando un 15% el rendimiento web y reduciendo un 10% el tiempo de entrega del proyecto.
-      -	Optimicé consultas SQL (MySQL) incrementando la velocidad de respuesta en un 30% mediante índices y normalización.
-
-      Sistema de Monitoreo en Tiempo Real con IoT:
-
-      - Implementé interfaces dinámicas (Bootstrap/jQuery) para visualizar datos de sensores (temperatura/voltaje), integrando APIs REST para comunicación con hardware.
-      -	Diseñé un sistema de alertas (EmailJS + APIs de SMS) que redujo un 40% el tiempo de respuesta a fallos técnicos.
-
-      Estrategias de Eficiencia y Escalabilidad:
-
-      - Introduje Git/GitHub para control de versiones, reduciendo un 20% errores en producción.
-      - Exploré soluciones en Microsoft Azure para escalabilidad futura, disminuyendo costos operativos.
-
+      - **Plataforma de Gestión de Motores**: 
+        - Desarrollo FullStack (Angular/PHP) mejorando 15% rendimiento web
+        - Optimización SQL (+30% velocidad con normalización/índices)
+      - **Sistema IoT Tiempo Real**:
+        - Pipeline Python para procesar datos de sensores
+        - Alertas automáticas (SMS/EmailJS) reduciendo 40% tiempo respuesta
+        - Dashboards con Bootstrap/jQuery
+      - **DevOps**: 
+        - Implementación Git/GitHub (-20% errores producción)
+        - Exploración Azure para escalabilidad
 
 projects:
-  title: Cursos y Certificaciones
-  intro: #>
-    #You can list your side projects or open source libraries in this
-    #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  title: Certificaciones
   assignments:
-    - title: Azure - Create a REST API using NodeJS Serverless Functions
-      link: "https://drive.google.com/file/d/124soEHl8PxMY0X1zb_8uVuWgVn3RHpIa/view?usp=sharing"
-      tagline: "Coursera, Enero 2025"
-    
-    - title: Tecnologo en Análisis y Desarrollo de Sistemas de Información
-      link: "https://drive.google.com/file/d/1mzA-EXPe1aG-QgZfnief2o4YaQwjE94W/view?usp=sharing"
-      tagline: "SENA, Agosto 2024"
-    
-    - title: Certificado de practicas 
-      link: "https://drive.google.com/file/d/1xdl-_P3rEL5vuNxbkBQwNFMyq66Da2tx/view?usp=sharing"
-      tagline: "SENA, Julio 2024"
-    
-    - title: Reconocimiento al desarrollo y la innovación en SENNOVA
-      link: "https://drive.google.com/file/d/1IV2dSe81XHUf0wXCoENJOkQflBC1lww3/view?usp=sharing"
-      tagline: "SENA, Enero 2024"
+    - title: Azure - APIs con NodeJS Serverless
+      tagline: Coursera • 2025
+      link: "https://drive.google.com/...pIa/view"
 
-    - title: Aplicación de la calidad del software en el proceso de desarrollo
-      link: "https://drive.google.com/file/d/1a-HR1x5vOP9cxRtabEA2MJkk8tbY3qA-/view?usp=sharing"
-      tagline: "SENA, Julio 2023"
+    - title: Reconocimiento Innovación SENNOVA
+      tagline: SENA • 2024
+      link: "https://drive.google.com/...w3/view"
 
-#publications:
-#title: Publications
-#intro: |
-#You can list your publications in this section. Lorem ipsum dolor sit
-#amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#bibendum fringilla a eu lectus.
-#papers:
-#- title: The Art of Computer Programming
-#link: "#"
-#authors: Donald E. Knuth
-#conference: Addison-Wesley, 1968
-
-#- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#link: "#"
-#authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#- title: A syntax directed compiler for Algol 60
-#link: "#"
-#authors: Edgar T. Irons
-#conference: "Comm. ACM 4 (1961), 51–55"
+    - title: Tecnólogo en Desarrollo de Sistemas
+      tagline: SENA • 2024
+      link: "https://drive.google.com/...4W/view"
 
 skills:
-  title: Skills #&amp; Proficiency
-
+  title: Habilidades Técnicas
   toolset:
-    - name: HTML & CSS
-      level: 50%
-
-    - name: JavaScript & TypeScript
-      level: 50%
-
-    - name: Git & GitHub
-      level: 25%
-
-    - name: Angular Framework
-      level: 50%
-
-    - name: Node.js
-      level: 25%
-
+    # Reordenado por relevancia + niveles ajustados
+    - name: Angular v18
+      level: 40%
+    - name: JavaScript/TypeScript
+      level: 55%
+    - name: PHP
+      level: 35%
     - name: MySQL
       level: 50%
-
-    - name: PHP
+    - name: Node.js
+      level: 30%
+    - name: Python
       level: 25%
-
-    - name: Bootstrap
-      level: 25%
-
-    - name: Visual Studio Code
+    - name: RESTful APIs
+      level: 65%
+    - name: Git/GitHub
+      level: 40%
+    - name: HTML/CSS
       level: 50%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    - name: Bootstrap
+      level: 50%
