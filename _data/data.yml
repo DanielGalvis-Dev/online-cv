@@ -53,17 +53,22 @@ sidebar:
 career-profile:
   title: Perfil Profesional
   summary: |
-    Tecnólogo en Desarrollo de Software especializado en desarrollo web y backend, con dominio de tecnologías actuales como JavaScript, PHP, TypeScript y RESTful APIs, además de una amplia experiencia con el framework Angular (v18). Poseo una base sólida en gestión de bases de datos MySQL y una marcada orientación al detalle. Mi perfil se caracteriza por una destacada capacidad de autodesarrollo, excelente trabajo en equipo y una notable adaptabilidad, habilidades que me permiten ofrecer soluciones eficientes en entornos que requieren agilidad y constante evolución.
+    Estudiante de Ingeniería de Sistemas con experiencia en desarrollo web FrontEnd y BackEnd. Apasionado por resolver problemas y optimizar la experiencia del usuario. Enfocado en crear soluciones innovadoras mediante TIC para mejorar procesos de desarrollo y contribuir al avance tecnológico.
 
 education:
   - degree: Ingenieria de Sistemas
-    university: Politecnico Costa Atlántica
+    university: Corporación Universitaria Politecnico Costa Atlántica
     time: Actualmente
+    details: |
+
+  - degree: Tecnología en Desarrollo Software
+    university: Corporación Universitaria Politecnico Costa Atlántica
+    time: 2025
     details: |
 
   - degree: Tnlgo en Análisis y Desarrollo de Sistemas de Información
     university: Servicio Nacional de Aprendizaje (SENA)
-    time: 2022 - 2024
+    time: 2024
     details: |
 
 experiences:
@@ -71,27 +76,15 @@ experiences:
     time: 2023 - 2024
     company: CENTRO NACIONAL COLOMBO ALEMAN
     details: |
-      Logros Clave:
-
-      Plataforma Unificada de Gestión de Motores:
-
-      - Lideré el desarrollo FullStack (FrontEnd: HTML/CSS/JavaScript, BackEnd: PHP/MVC) de una plataforma para monitorear motores eléctricos, mejorando un 15% el rendimiento web y reduciendo un 10% el tiempo de entrega del proyecto.
+      -	Lideré el desarrollo de una plataforma para monitorear motores eléctricos, mejorando un 15% el rendimiento web y reduciendo un 10% el tiempo de entrega del proyecto.
       -	Optimicé consultas SQL (MySQL) incrementando la velocidad de respuesta en un 30% mediante índices y normalización.
-
-      Sistema de Monitoreo en Tiempo Real con IoT:
-      - Diseñé e implementé un sistema de monitoreo en tiempo real utilizando tecnologías IoT (Node.js, Angular, MySQL), logrando una reducción del 25% en el tiempo de inactividad de los motores.Creé dashboards en tiempo real (Bootstrap/jQuery) para datos de sensores (temperatura/voltaje).
-      - Desarrollé un sistema que recibe datos crudos de sensores IoT, los transforma en mediciones de temperatura y voltaje mediante algoritmos en Python, y los almacena eficientemente en MySQL.
-      - Implementé alertas automáticas (EmailJS/SMS) que redujeron 40% el tiempo de respuesta a fallos.
-      
-      Estrategias de Eficiencia y Escalabilidad:
-
-      - Introduje Git/GitHub para control de versiones, reduciendo un 20% errores en producción.
-      - Exploré soluciones en Microsoft Azure para escalabilidad futura, disminuyendo costos operativos.
-
+      -	Implementé interfaces dinámicas para visualizar datos de sensores (temperatura/voltaje), integrando APIs REST para comunicación con hardware.
+      -	Diseñé un sistema de alertas que redujo un 40% el tiempo de respuesta a fallos técnicos.
+      -	Introduje Git/GitHub para control de versiones, reduciendo un 20% errores en producción.
 
 projects:
   title: Cursos y Certificaciones
-  intro: #>
+  intro:#>
     #You can list your side projects or open source libraries in this
     #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -99,15 +92,15 @@ projects:
     - title: Azure - Create a REST API using NodeJS Serverless Functions
       link: "https://drive.google.com/file/d/124soEHl8PxMY0X1zb_8uVuWgVn3RHpIa/view?usp=sharing"
       tagline: "Coursera, Enero 2025"
-    
+
     - title: Tecnologo en Análisis y Desarrollo de Sistemas de Información
       link: "https://drive.google.com/file/d/1mzA-EXPe1aG-QgZfnief2o4YaQwjE94W/view?usp=sharing"
       tagline: "SENA, Agosto 2024"
-    
-    - title: Certificado de practicas 
+
+    - title: Certificado de practicas
       link: "https://drive.google.com/file/d/1xdl-_P3rEL5vuNxbkBQwNFMyq66Da2tx/view?usp=sharing"
       tagline: "SENA, Julio 2024"
-    
+
     - title: Reconocimiento al desarrollo y la innovación en SENNOVA
       link: "https://drive.google.com/file/d/1IV2dSe81XHUf0wXCoENJOkQflBC1lww3/view?usp=sharing"
       tagline: "SENA, Enero 2024"
@@ -160,10 +153,16 @@ skills:
     - name: MySQL
       level: 50%
 
+    - name: PL/SQL
+      level: 25%
+
     - name: PHP
       level: 25%
 
     - name: Bootstrap
+      level: 40%
+
+    - name: Tailwind CSS
       level: 40%
 
     - name: Visual Studio Code
