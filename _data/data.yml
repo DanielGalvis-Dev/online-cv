@@ -57,7 +57,7 @@ career-profile:
 
 education:
   - degree: Ingenieria de Sistemas
-    university: Corporación Universitaria Politecnico Costa Atlántica
+    university: Politecnico Costa Atlántica
     time: Actualmente
     details: |
 
@@ -68,7 +68,7 @@ education:
 
   - degree: Tnlgo en Análisis y Desarrollo de Sistemas de Información
     university: Servicio Nacional de Aprendizaje (SENA)
-    time: 2024
+    time: 2022 - 2024
     details: |
 
 experiences:
@@ -82,9 +82,10 @@ experiences:
       -	Diseñé un sistema de alertas que redujo un 40% el tiempo de respuesta a fallos técnicos.
       -	Introduje Git/GitHub para control de versiones, reduciendo un 20% errores en producción.
 
+
 projects:
   title: Cursos y Certificaciones
-  intro:#>
+  intro: #>
     #You can list your side projects or open source libraries in this
     #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -92,15 +93,15 @@ projects:
     - title: Azure - Create a REST API using NodeJS Serverless Functions
       link: "https://drive.google.com/file/d/124soEHl8PxMY0X1zb_8uVuWgVn3RHpIa/view?usp=sharing"
       tagline: "Coursera, Enero 2025"
-
+    
     - title: Tecnologo en Análisis y Desarrollo de Sistemas de Información
       link: "https://drive.google.com/file/d/1mzA-EXPe1aG-QgZfnief2o4YaQwjE94W/view?usp=sharing"
       tagline: "SENA, Agosto 2024"
-
-    - title: Certificado de practicas
+    
+    - title: Certificado de practicas 
       link: "https://drive.google.com/file/d/1xdl-_P3rEL5vuNxbkBQwNFMyq66Da2tx/view?usp=sharing"
       tagline: "SENA, Julio 2024"
-
+    
     - title: Reconocimiento al desarrollo y la innovación en SENNOVA
       link: "https://drive.google.com/file/d/1IV2dSe81XHUf0wXCoENJOkQflBC1lww3/view?usp=sharing"
       tagline: "SENA, Enero 2024"
@@ -160,10 +161,10 @@ skills:
       level: 25%
 
     - name: Bootstrap
-      level: 40%
+      level: 20%
 
     - name: Tailwind CSS
-      level: 40%
+      level: 25%
 
     - name: Visual Studio Code
       level: 50%
