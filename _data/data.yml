@@ -13,7 +13,7 @@ sidebar:
   avatar: profile2.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: djgz2004@gmail.com
+  email: daniel.galvis.dev@gmail.com
   phone: +573006188395
   whatsapp: +573006188395
   website: #do not add http://
@@ -28,7 +28,7 @@ sidebar:
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
   cv-title: Hoja de vida
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: https://drive.google.com/file/d/1RoX0YuLtrExhP-fubAN5sQPkBgYy3yb_/view?usp=sharing
   experience-title: Experiencia
   education-title: Estudios
   language-title: Idiomas
@@ -39,13 +39,22 @@ sidebar:
     - idiom: Ingles
       level: B1
 
-  interest-title: Hobbies
+  interest-title: Cometencias
   interests:
-    - item: Gimnasio
+    - item: Aprendizaje autodidacta continuo
       link:
 
-    - item: Música
+    - item: Adaptabilidad y autonomía para resolver problemas
       link:
+
+    - item: Alta disposición para trabajar en equipo y colaborar en proyectos desafiantes
+      link:
+
+    - item: Compromiso y responsabilidad en cada etapa del desarrollo
+      link:
+
+    # - item:
+    #   link:
 
     # - item:
     #   link:
@@ -53,12 +62,12 @@ sidebar:
 career-profile:
   title: Perfil Profesional
   summary: |
-    Estudiante de Ingeniería de Sistemas con experiencia en desarrollo web FrontEnd y BackEnd. Apasionado por resolver problemas y optimizar la experiencia del usuario. Enfocado en crear soluciones innovadoras mediante TIC para mejorar procesos de desarrollo y contribuir al avance tecnológico.
+    Desarrollador de software con experiencia en automatización de procesos, desarrollo web y visualización de datos. Especializado en diseñar soluciones tecnológicas que optimizan la productividad y mejoran flujos de trabajo. Me destaco por mi capacidad de análisis, atención al detalle y enfoque en la creación de herramientas eficientes, confiables y personalizadas, impulsando la transformación digital y el éxito operativo.
 
 education:
   - degree: Ingenieria de Sistemas
     university: Corporación Universitaria Politecnico Costa Atlántica
-    time: Actualmente
+    time: Cursando 8vo semestre
     details: |
 
   - degree: Tecnología en Desarrollo Software
@@ -76,9 +85,9 @@ experiences:
     time: 2023 - 2024
     company: CENTRO NACIONAL COLOMBO ALEMAN
     details: |
-      -	Lideré el desarrollo de una plataforma para monitorear motores eléctricos, mejorando un 15% el rendimiento web y reduciendo un 10% el tiempo de entrega del proyecto.
-      -	Optimicé consultas SQL (MySQL) incrementando la velocidad de respuesta en un 30% mediante índices y normalización.
-      -	Implementé interfaces dinámicas para visualizar datos de sensores (temperatura/voltaje), integrando APIs REST para comunicación con hardware.
+      -	Desarrollé una plataforma de monitoreo que integraba datos en tiempo real desde sensores, aplicando principios de disponibilidad y eficiencia en consultas.
+      -	Optimicé bases de datos relacionales (MySQL) mejorando un 30% el rendimiento de consultas en entornos con alta concurrencia.
+      -	Diseñé e implementé integraciones con terceros mediante APIs REST y procesamiento de archivos para visualización de datos de sensores.
       -	Diseñé un sistema de alertas que redujo un 40% el tiempo de respuesta a fallos técnicos.
       -	Introduje Git/GitHub para control de versiones, reduciendo un 20% errores en producción.
 
@@ -90,11 +99,15 @@ projects:
     #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
+    - title: Tecnólogo en Desarrollo Software
+      link: "https://drive.google.com/file/d/1Cv7b7-TQjzIuBE3G1muT-S5mstWovKDc/view?usp=sharing"
+      tagline: "Politecnico Costa Atlántica, Octubre 2025"
+
     - title: Azure - Create a REST API using NodeJS Serverless Functions
       link: "https://drive.google.com/file/d/124soEHl8PxMY0X1zb_8uVuWgVn3RHpIa/view?usp=sharing"
       tagline: "Coursera, Enero 2025"
     
-    - title: Tecnologo en Análisis y Desarrollo de Sistemas de Información
+    - title: Tecnólogo en Análisis y Desarrollo de Sistemas de Información
       link: "https://drive.google.com/file/d/1mzA-EXPe1aG-QgZfnief2o4YaQwjE94W/view?usp=sharing"
       tagline: "SENA, Agosto 2024"
     
@@ -142,32 +155,29 @@ skills:
     - name: JavaScript & TypeScript
       level: 50%
 
-    - name: Git & GitHub
-      level: 25%
-
     - name: Angular Framework
       level: 50%
 
     - name: Node.js
+      level: 35%
+
+    - name: Nest.js
       level: 25%
 
     - name: MySQL
       level: 50%
 
-    - name: PL/SQL
-      level: 25%
-
-    - name: PHP
+    - name: Tailwind CSS
       level: 25%
 
     - name: Bootstrap
       level: 20%
 
-    - name: Tailwind CSS
+    - name: Git & GitHub
       level: 25%
 
-    - name: Visual Studio Code
-      level: 50%
+    - name: PHP
+      level: 25%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
